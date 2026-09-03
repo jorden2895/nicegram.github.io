@@ -1,26 +1,56 @@
 ---
-icon: flag-checkered
+description: Learn what Nicegram adds to Telegram, where each feature is available, and how to use it safely.
 ---
 
-# Introduction
+# Nicegram Help Center
 
-#### What is Nicegram
+Nicegram is an independent Telegram client. You sign in with your existing
+Telegram account and keep using your Telegram chats, while Nicegram adds tools for
+multiple accounts, privacy, faster messaging, translation, media, AI, and — where
+available — wallet and beta workflows.
 
-Nicegram is a Web3-native messenger that merges communication, finance, and digital ownership into one seamless ecosystem.\
-Built on the trusted foundation of Telegram’s infrastructure, it extends familiar messaging into the world of decentralized tools — offering users a unified environment for chatting, trading, earning, and managing assets.
+Nicegram is not affiliated with Telegram. Telegram provides the underlying account
+and messaging service; Nicegram provides the client and its additional features.
 
-By combining social interaction with wallets, payments, and AI utilities, Nicegram transforms how users experience messaging. It’s not just a place to talk — it’s a platform to transact, participate, and grow inside a secure and private interface.
+## Start here
 
-#### Mission and Core Principles
+- [Install Nicegram](getting-started/install.md)
+- [Add and manage accounts](getting-started/accounts.md)
+- [Check platform and feature availability](getting-started/availability.md)
+- [Browse every documented feature](features/README.md)
+- [Fix a feature that is missing](help/feature-not-visible.md)
 
-**Mission**\
-To create a universal communication layer for the decentralized internet — connecting billions of users, communities, and services through secure messaging and built-in financial tools.
+## The most widely available Nicegram additions
 
-**Core Principles**
+- More Telegram accounts in one app, with platform-specific practical limits.
+- Hidden chats and accounts through Double Bottom.
+- Quick replies and message actions for repetitive conversations.
+- Incoming and outgoing message translation.
+- Speech-to-text and media conveniences on supported mobile builds.
+- Sending an existing video as a Telegram video message.
+- Call recording on supported iOS builds, with consent requirements.
 
-* **Privacy and Control:** Every user retains full ownership of their data, accounts, and assets.
-* **Simplicity and Familiarity:** Nicegram builds upon the experience users already know — no steep learning curve, no friction.
-* **Borderless Access:** One app for all interactions — social, financial, and creative — across multiple blockchains and regions.
-* **Utility and Sustainability:** Designed for real-world use, with earning, trading, and communication converging in a sustainable ecosystem.
+AI, wallet, agent, marketplace, and payment features can depend on the app version,
+platform, subscription, region, account, or staged rollout. Their pages always show
+that status before explaining the feature.
 
-Nicegram represents the next evolution of messaging — where privacy meets productivity, and where every conversation can become an opportunity to connect, create, and earn.
+## Status labels
+
+| Label | Meaning |
+|---|---|
+| **Available** | Listed as available by Nicegram and supported by a current client surface |
+| **Beta** | Available to test for eligible users and subject to change |
+| **Limited rollout** | Only some platforms, accounts, regions, plans, or builds may show it |
+| **Source-visible** | Present in public source, but not confirmed in a current release |
+
+## Official links
+
+- [Nicegram website](https://nicegram.me)
+- [Official downloads](https://nicegram.me/download)
+- [Privacy Policy](https://nicegram.me/privacy-policy)
+- [Terms of Use](https://nicegram.me/terms-of-use)
+- [Nicegram on GitHub](https://github.com/nicegram)
+- [Community chat](https://t.me/nicegramchat)
+
+This Help Center was last reviewed against the public product, stores, and source
+repositories on **September 3, 2026**.
